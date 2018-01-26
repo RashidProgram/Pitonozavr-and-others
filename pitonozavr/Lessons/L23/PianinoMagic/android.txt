@@ -1,0 +1,3 @@
+title=ZvykiiVipysov
+author=Rashid
+orientation=landscape

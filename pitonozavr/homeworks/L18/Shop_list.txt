@@ -1,0 +1,6 @@
+python_course : 0
+Marat&Roses : 1000$
+Raphik : 0.5 bitcoin
+kybik_rubika : 100$
+piramid : 50$
+phone : 300$
