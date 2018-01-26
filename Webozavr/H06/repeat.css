@@ -1,0 +1,12 @@
+body,html{
+	size: cover;
+}
+.kyb1,.kyb2,.kyb3,.kyb4{
+	width: 100px;
+	height: 100px;
+	background-color:red;
+	position: absolute;
+}
+.kyb2,.kyb4{left:1225px;}
+
+.kyb3,.kyb4{top: 550px;}

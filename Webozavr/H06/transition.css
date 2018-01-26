@@ -1,0 +1,35 @@
+div{
+	height: 100px;
+	width: 100px;
+	position:absolute;
+}
+.anim{
+	background-color: black;
+	position: absolute;
+	left:10px;
+	top:10px;
+	transition-property: width;
+	transition-duration: 5s;
+	transition-timing-function: linear;
+	width: 100px;
+}
+.anim:hover{
+	transition-property: width;
+	transition-duration: 5s;
+	transition-timing-function: linear;
+	width: 1000px;
+}
+
+.anim2{
+	top:200px;
+	background-color: red;
+	background-color: red;
+	-webkit-transition: left 5s ;
+	left:10px;
+}
+.anim2:hover{
+	background-color: red;
+	-webkit-transition: left 5s;
+	left:1000px;
+}
+

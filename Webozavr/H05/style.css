@@ -1,0 +1,36 @@
+body{
+	background-repeat: no-repeat;
+	background-image: url("phon.jpg");
+	background-size: cover;
+}
+.qq{
+	text-align: center;
+}
+.q1,.q2,.q3,.q4,.q5{
+	padding-top:20px;
+	margin: auto;
+	width: 100px;
+	height: 75px;
+	text-align: center;
+	box-sizing: border-box;
+}
+.q1{
+	color:red;
+	background-color: green;
+}
+.q2{
+	color:rgb(222,211,43);
+	background-color: wheat;
+}
+.q3{
+	color: #231ffd;
+	background-color: red;
+}
+.q4{
+	color:#ffeaea;
+	background-color: black;
+}
+.q5{
+	color:rgba(211,32,54,0.7);
+	background-color: blue;
+}

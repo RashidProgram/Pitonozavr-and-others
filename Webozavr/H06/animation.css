@@ -1,0 +1,17 @@
+@keyframes perimetr{
+	0%{left:10px; top:10px;}
+	25%{left: 10px;top:500px;}
+	50%{left: 800px;top:500px;}
+	75%{left: 800px;top: 10px;}
+	100%{left: 10px;top:10px;}
+}
+img,div{
+	height: 100px;
+	width: 200px;
+	position: absolute;
+	display: block;
+}
+.megaAnim1{
+	background-color: red;
+	animation: perimetr 10s linear infinite;
+}

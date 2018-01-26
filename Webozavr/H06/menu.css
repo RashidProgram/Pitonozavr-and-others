@@ -1,0 +1,26 @@
+nav a{
+	text-decoration: none;
+	display:block;
+	color:#888888;
+	padding: 20px;
+	box-sizing: border-box;
+}
+nav>ul>li:first-child>a{
+	padding: 30px;}
+nav>ul li{
+	float:left;
+	margin:0px;
+	width: 130px;
+	height: 70px;
+	background-color: #222;
+	list-style: none;
+	display: block;
+	border: 2px solid #000000;
+	border-left: 0px solid #000000
+}
+nav>ul li:first-child{
+	border-left: 2px solid #000000
+}
+nav>ul li:hover{
+	background-color: #393939
+}

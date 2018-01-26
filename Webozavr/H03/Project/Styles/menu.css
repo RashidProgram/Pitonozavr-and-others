@@ -1,0 +1,30 @@
+/*Menu*/
+#horisontalMenu {
+   width: 300px;
+    height: 50px;
+    float: right;
+    display: flex;
+    align-items: center;
+	flex-direction: row;
+}
+
+#horisontalMenu a {
+    display: block;
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    text-decoration: none;
+    border-left: 1px solid rgba(255, 255, 255, 0.1);
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 0 20px;
+    height: 70px;
+    line-height: 70px;
+}
+
+#horisontalMenu a:hover , #horisontalMenu a.active{
+    background: #5e5e5e;
+}
+
+#horisontalMenu a:last-child{
+    border-left: none;
+}
+/*end menu*/

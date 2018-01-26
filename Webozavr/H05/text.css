@@ -1,0 +1,29 @@
+.text1{
+	font-family: "Mistral",cursive;
+	font-size: 35px;
+	text-indent: 20px;
+	text-align: left;
+}
+.text2{
+	font-family: "Monotype Corsive",cursive;
+	font-size: 35px;
+	text-align: center;
+}
+.text3{
+	font-style:italic;
+	font-weight: 700;
+	line-height: 20px;
+	text-decoration: underline;
+	text-align: right;
+}
+.text4{
+	font-style:normal;
+	font-weight: 700;
+	line-height: 20px;
+	text-decoration: line-through;
+	text-transform: lowercase;
+}
+.body1{
+	background-color: red;
+	height: 100px;
+}

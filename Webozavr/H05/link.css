@@ -1,0 +1,31 @@
+body,html{
+	background-image: url("Phon.jpg");
+	background-size: cover;
+	size: cover;
+}
+
+div{
+	font-size: 20px;
+	color: red;
+}
+
+a:link{
+	text-decoration:none;
+	color: black;
+}
+a:hover{
+	text-decoration:none;
+	font-size: 50px;
+	color: red;
+	cursor: url(http://cur.cursors-4u.net/cursors/cur-1/cur1.ani), url(http://cur.cursors-4u.net/cursors/cur-1/cur1.png), progress !important;
+}
+a:visited{
+	text-decoration:none;
+	color: black;
+}
+a:active{
+	text-decoration:none;
+	color: black;
+	text-decoration: underline;
+	text-decoration-color: red;
+}

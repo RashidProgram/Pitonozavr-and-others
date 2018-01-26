@@ -1,0 +1,19 @@
+div{
+	height: 100px;
+	width: 100px;
+}
+
+.block1{
+	background-color: black;
+	transform: translateY(250px);
+}
+.block2{
+	transform: translate(250px,250px) scale(2) rotate(100rad);
+}
+.block3{
+	background-color: red;
+	transform: translate(700px);
+}
+.block3:hover{
+ transform: translate(700px) rotate(180grad);
+}

@@ -1,0 +1,31 @@
+div{
+	width: 200px;
+	height: 30px;
+	background-color: wheat;
+	margin: 10px 40%;
+	text-align: center;
+}
+
+#red_div{
+	background-color: #f00;
+}
+#orange_div, #yellow_div{
+ height: 60px;
+ width: 250px
+}
+#orange_div{
+	background-color: rgb(255, 136, 0);
+}
+#yellow_div{
+	background-color: rgba(255, 255, 0, 0.6);	
+}
+
+.color_div{
+	width:400px;
+
+	background-color: #0f0;
+}
+
+.darkKhing{
+ background-color: #00f;
+}
